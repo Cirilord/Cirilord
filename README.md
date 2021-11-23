@@ -46,5 +46,5 @@
 
 ### :mag: Como me encontrar ?
 
-[![Linkedin: Pedro Cirilo](https://img.shields.io/badge/-Pedro%20Cirilo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-cirilo-240940180/&color=3ABDD8)](https://www.linkedin.com/in/pedro-cirilo-240940180/)
+[![Linkedin: Pedro Cirilo](https://img.shields.io/badge/-Pedro%20Cirilo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-cirilo/&color=3ABDD8)](https://www.linkedin.com/in/pedro-cirilo/)
 [![GitHub Cirilord]( https://img.shields.io/github/followers/Cirilord?label=Seguir&style=social)](https://github.com/Cirilord)
