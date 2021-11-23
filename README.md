@@ -7,17 +7,14 @@
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Cirilord&count_private=true&theme=react&show_icons=true" />
 
-<!--
-**Cirilord/Cirilord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> :sunglasses: &nbsp;Segura ai algumas das minhas habilidades: </h3>
 
-Here are some ideas to get you started:
+**Linguagens**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=3ABDD8&color=20232A)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5&logoColor=3ABDD8&color=20232A)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=3ABDD8&color=20232A)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=for-the-badge&logo=Flutter&logoColor=3ABDD8&color=20232A)
+![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react&logoColor=3ABDD8&color=20232A)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=for-the-badge&logo=react&logoColor=3ABDD8&color=20232A)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=for-the-badge&logo=next.js&logoColor=3ABDD8&color=20232A)
