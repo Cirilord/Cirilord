@@ -44,5 +44,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb&logoColor=3ABDD8&color=20232A)
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=for-the-badge&logo=firebase&logoColor=3ABDD8&color=20232A)
 
+### :mag: Como me encontrar ?
+
 [![Linkedin: Pedro Cirilo](https://img.shields.io/badge/-Pedro%20Cirilo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-cirilo-240940180/&color=3ABDD8)](https://www.linkedin.com/in/pedro-cirilo-240940180/)
 [![GitHub Cirilord]( https://img.shields.io/github/followers/Cirilord?label=Seguir&style=social)](https://github.com/Cirilord)
