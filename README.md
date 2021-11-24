@@ -56,6 +56,12 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=for-the-badge&logo=figma&logoColor=3ABDD8&color=20232A)
 ![Zeplin](https://img.shields.io/badge/-Zeplin-333333?style=for-the-badge&logo=zeplin&logoColor=3ABDD8&color=20232A)
 
+**Sistemas operacionais**
+
+![Linux](https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux&logoColor=3ABDD8&color=20232A)
+![MacOS](https://img.shields.io/badge/-MacOS-333333?style=for-the-badge&logo=macos&logoColor=3ABDD8&color=20232A)
+![Windows](https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=windows&logoColor=3ABDD8&color=20232A)
+
 ### :mag: Como me encontrar ?
 
 [![Linkedin: Pedro Cirilo](https://img.shields.io/badge/-Pedro%20Cirilo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-cirilo/&color=3ABDD8)](https://www.linkedin.com/in/pedro-cirilo/)
