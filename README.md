@@ -2,7 +2,7 @@
 
 <p>
   Meu chamo Pedro, mas pode me chamar de cirilo tambem, tenho 21 anos e atuamente atuo na area de desenvolvimento web e mobile
-  porem gosto de gerenciar banco de dados e a minha verdadeira paixão é o backend :heart: e server side :heart:
+  porem gosto de gerenciar banco de dados e a minha verdadeira paixão é o backend, server side e banco de dados :heart:
 </p>
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Cirilord&count_private=true&theme=react&show_icons=true" />
