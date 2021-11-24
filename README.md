@@ -36,6 +36,7 @@
 ![VueJS](https://img.shields.io/badge/-VueJS-333333?style=for-the-badge&logo=vue.js&logoColor=3ABDD8&color=20232A)
 ![Ionic](https://img.shields.io/badge/-Ionic-333333?style=for-the-badge&logo=ionic&logoColor=3ABDD8&color=20232A)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=for-the-badge&logo=next.js&logoColor=3ABDD8&color=20232A)
+![MaterialUI](https://img.shields.io/badge/-MaterialIU-333333?style=for-the-badge&logo=materialui&logoColor=3ABDD8&color=20232A)
 
 **Banco de dados**
 
