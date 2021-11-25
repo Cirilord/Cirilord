@@ -5,8 +5,6 @@
   porem gosto de gerenciar banco de dados e a minha verdadeira paixão é o backend, server side e banco de dados :heart:
 </p>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Cirilord&count_private=true&theme=react&show_icons=true" />
-
 ### :sunglasses: Segura algumas das minhas habilidades ai!
 
 **Linguagens**
